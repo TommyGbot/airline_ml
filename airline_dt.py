@@ -20,7 +20,7 @@ with st.expander("**What can you do with this app?**"):
     st.markdown("""
     - 📝 **Fill out a Survey:** Provide a form for users to fill out their airline satisfaction feedback.
     - 📊 **Make Data-Driven Decisions:** Use insights to guide improvements in customer experience.
-    - 🎛️ **Interactive Features:** Explore data with fully interactive charts and summaries!
+    - wrench **Interactive Features:** Explore data with fully interactive charts and summaries!
     """)
 
 st.title("Prediction of Customer Satisfaction" \
